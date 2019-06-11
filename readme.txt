@@ -1,10 +1,18 @@
+This is the previous code. This project was not updated after the post-learning.
+So there may be some bugs. Please understand
+
+这是之前的代码 后期学习后并没有更新此项目
+所以可能会存在一些bug。请谅解
+
+
+
 Tips:****************************
 
 1.--------------------------------------------------------------------------------------------------------------
 Since the cover path of the book is different, please update the image table in the mysql database. Thank you! |
 For example, the path column of the image table in the database:                                               |
                                                                                                                |
-'好吗，好的', 'C:\\Users\\钟雷\\Desktop\\book cover\\好吗，好的.jpg'                                           |
+'好吗，好的', 'C:\\Users\\钟雷\\Desktop\\book cover\\好吗，好的.jpg'                                             |
 																										       |
 This is on my computer Path																					   |
 Please update the path on your computer Thank you for your cooperation!										   |
@@ -32,3 +40,5 @@ Due to time, there may be some bugs in this system, please forgive me. Thank you
 
 3.
 由于时间原因，此系统可能存在某些bug，请见谅。 谢谢
+
+
